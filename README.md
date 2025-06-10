@@ -34,7 +34,6 @@ Projeto simples para cadastro, edição e exclusão de clientes utilizando PHP, 
 1. Clone este repositório:
 
    ```bash
-   Salve o arquivo dentro da pasta htdocs do xampp
    git clone https://github.com/PedroOrPeter/fatura.git
    cd NomeDoProjeto
    
